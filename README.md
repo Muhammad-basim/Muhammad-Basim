@@ -121,40 +121,6 @@ https://github.com/Muhammad-basim/UniLink
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Muhammad-basim/Muhammad-basim/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
-> **Note:** The contribution snake requires a GitHub Actions workflow to generate automatically.
-
----
-
-# 🎯 2026 Goals
-
-* ✅ Master Object-Oriented Programming
-* ✅ Build more Java applications
-* 🔄 Learn Spring Boot
-* 🔄 Learn REST APIs
-* 🔄 Explore React
-* 🔄 Contribute to Open Source
-* 🔄 Strengthen Data Structures & Algorithms
-
----
-
-# 📚 Currently Learning
-
-* Advanced Java
-* Software Design Patterns
-* Database Optimization
-* Clean Architecture
-* Backend Development
-
----
-
 # 🤝 Let's Connect
 
 <p>
