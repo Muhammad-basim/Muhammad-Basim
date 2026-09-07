@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Basim Qureshi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Developer;Backend+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Developer;Cyber+Security+Enthusiast;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <p align="center">
